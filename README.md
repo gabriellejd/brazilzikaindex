@@ -14,6 +14,6 @@ IBGE: municipal boundaries, population, and density
 MapBiomas: land use and land cover data
 Data spans multiple years and formats (vector, raster, tabular) and is harmonized for spatial analysis at the municipal level.
 
-Maintainer
+Maintainer:
 This project was developed and is maintained by:
 Gabrielle Dominique
